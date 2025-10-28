@@ -48,4 +48,4 @@ we just send y_pred to the next lstm
 - works only for languages where first word contains most context
 </br>
 
-**If attention mechanism works great why do we need attention mechanism?** [click](attention_mech.md)
+**If encoder decoder works great why do we need attention mechanism?** [click](attention_mech.md)
